@@ -1,0 +1,3 @@
+In this exercise, you'll practice working with arrays to help organize the shops in the Gaulish village near the Mansion of the Gods. Romans are flooding the village as tourists, and our chief, Abraracourcix, needs an efficient way to manage the shops for souvenirs and food. You'll use single-dimensional, multidimensional, and jagged arrays to solve problems while adhering to strict limitations—only the Array.Length property and Array.GetLength method are allowed for array operations.
+
+This practical helps reinforce array fundamentals, encouraging you to think about indexing, storage, and data organization in a structured way without relying on advanced methods or external libraries.
